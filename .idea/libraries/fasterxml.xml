@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fasterxml">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/fasterxml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/fasterxml" recursive="false" />
+  </library>
+</component>

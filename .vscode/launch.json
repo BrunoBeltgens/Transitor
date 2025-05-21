@@ -1,0 +1,53 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "PostCodeRanker",
+      "request": "launch",
+      "mainClass": "Accessibility.PostCodeRanker"
+    },
+    {
+      "type": "java",
+      "name": "PointInPolygon",
+      "request": "launch",
+      "mainClass": "SQL.PointInPolygon"
+    },
+    {
+      "type": "java",
+      "name": "GeoJSONReader",
+      "request": "launch",
+      "mainClass": "Accessibility.GeoJSONReader"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App.EntryPoint"
+    },
+    {
+      "type": "java",
+      "name": "GraphTesting",
+      "request": "launch",
+      "mainClass": "Routing.Graph.GraphTesting"
+    },
+    {
+      "type": "java",
+      "name": "PostCodeHashMap",
+      "request": "launch",
+      "mainClass": "PostCodeHashMap"
+    },
+    {
+      "type": "java",
+      "name": "CSVFileReader",
+      "request": "launch",
+      "mainClass": "CSVFileReader"
+    },
+    {
+      "type": "java",
+      "name": "DBTest",
+      "request": "launch",
+      "mainClass": "SQL.DatabaseController"
+    }
+  ]
+}

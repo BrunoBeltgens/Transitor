@@ -1,0 +1,5 @@
+cd resources
+java -jar osmparser-0.13.jar -f maastricht.osm -i highway highway=footway,pedestrian,path,track -o maastrichtGraph.json
+
+or
+java -jar osmparser-0.13.jar -f maastricht.osm -i highway highway=* -o maastrichtGraph.json
